@@ -58,50 +58,50 @@ It also allows EmberRTOS to run without any external libraries or drivers.
 
 ---
 
-## Command System
+Command System
 
-### Directory Commands
-**MKDIR FolderName**  
+Directory Commands
+MKDIR FolderName
 Creates a new folder.
 
-### File Commands
-**MKTXT<Folder><Filename><"Content">**  
+File Commands
+MKTXT<Folder><Filename><"Content">
 Creates a text file with full support for spaces and quoted content.
 
-**CAT<Folder>**  
+CAT<Folder>
 Lists all files inside a folder.
 
-**CAT<Folder><Filename>**  
+CAT<Folder><Filename>
 Reads the content of a text file.
 
-**EDIT<Folder><Filename>**  
+EDIT<Folder><Filename>
 Opens a file for editing.
 
-**DELETE<Folder>**  
+DELETE<Folder>
 Deletes a folder and all contents.
 
-**DELETE<Folder><Filename>**  
+DELETE<Folder><Filename>
 Deletes a specific file.
 
-### Applications
-**CLOCK**  
-Displays a live ASCII analog clock.  
-Use `EXIT` to close.
+Applications
+CLOCK
+Displays a live ASCII analog clock.
+Use EXIT to close.
 
-**CALC<Op><Val1><Val2>**  
+CALC<Op><Val1><Val2>
 Performs arithmetic operations.
 
-**CALC<TrigOp><Degrees>**  
+CALC<TrigOp><Degrees>
 Performs trigonometric calculations.
 
-### System Commands
-**HELP**  
+System Commands
+HELP
 Shows the command index.
 
-**EXIT**  
+EXIT
 Leaves CLOCK or CALC.
 
-**SHUTDOWN**  
+SHUTDOWN
 Commits all blocks and halts the kernel.
 
 ---
