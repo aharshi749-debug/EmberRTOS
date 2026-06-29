@@ -61,48 +61,48 @@ It also allows EmberRTOS to run without any external libraries or drivers.
 ## Command System
 
 ### Directory Commands
-- **MKDIR FolderName**  
-  Creates a new folder.
+**MKDIR FolderName**  
+Creates a new folder.
 
 ### File Commands
-- **MKTXT<Folder><Filename><"Content">**  
-  Creates a text file with full support for spaces and quoted content.
+**MKTXT<Folder><Filename><"Content">**  
+Creates a text file with full support for spaces and quoted content.
 
-- **CAT<Folder>**  
-  Lists all files inside a folder.
+**CAT<Folder>**  
+Lists all files inside a folder.
 
-- **CAT<Folder><Filename>**  
-  Reads the content of a text file.
+**CAT<Folder><Filename>**  
+Reads the content of a text file.
 
-- **EDIT<Folder><Filename>**  
-  Opens a file for editing.
+**EDIT<Folder><Filename>**  
+Opens a file for editing.
 
-- **DELETE<Folder>**  
-  Deletes a folder and all contents.
+**DELETE<Folder>**  
+Deletes a folder and all contents.
 
-- **DELETE<Folder><Filename>**  
-  Deletes a specific file.
+**DELETE<Folder><Filename>**  
+Deletes a specific file.
 
 ### Applications
-- **CLOCK**  
-  Displays a live ASCII analog clock.  
-  Use `EXIT` to close.
+**CLOCK**  
+Displays a live ASCII analog clock.  
+Use `EXIT` to close.
 
-- **CALC<Op><Val1><Val2>**  
-  Performs arithmetic operations.
+**CALC<Op><Val1><Val2>**  
+Performs arithmetic operations.
 
-- **CALC<TrigOp><Degrees>**  
-  Performs trigonometric calculations.
+**CALC<TrigOp><Degrees>**  
+Performs trigonometric calculations.
 
 ### System Commands
-- **HELP**  
-  Shows the command index.
+**HELP**  
+Shows the command index.
 
-- **EXIT**  
-  Leaves CLOCK or CALC.
+**EXIT**  
+Leaves CLOCK or CALC.
 
-- **SHUTDOWN**  
-  Commits all blocks and halts the kernel.
+**SHUTDOWN**  
+Commits all blocks and halts the kernel.
 
 ---
 
