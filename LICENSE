@@ -1,0 +1,47 @@
+EmberRTOS Binary-Only License v1.0
+Copyright (c) 2026 Aharshi
+
+Permission is hereby granted to any person obtaining a copy of the EmberRTOS
+binary image (the "Software") to use, run, and flash the Software on compatible
+hardware.
+
+The following conditions apply:
+
+1. Attribution
+   You must credit the original author, "Aharshi", in any public use, mention,
+   or redistribution of the Software. You may not claim ownership or authorship
+   of EmberRTOS.
+
+2. No Source Access
+   The Software is provided strictly in compiled binary form. The original
+   source code is not provided and may not be requested, extracted, or shared.
+
+3. No Reverse Engineering
+   You may not decompile, disassemble, reverse engineer, or otherwise attempt
+   to derive the source code, structure, or internal design of the Software.
+
+4. No Modification or Derivative Works
+   You may not modify the Software, create derivative works, port it to other
+   platforms, or alter its behavior in any way.
+
+5. Redistribution
+   You may redistribute the unmodified binary file, provided this license is
+   included and attribution is preserved. You may not redistribute modified
+   binaries or altered versions.
+
+6. No Claim of Ownership
+   You may not represent EmberRTOS as your own work, nor remove or alter any
+   embedded credits, version strings, or identifiers.
+
+7. Warranty Disclaimer
+   The Software is provided "as is", without warranty of any kind, express or
+   implied. The author is not liable for any damages arising from use of the
+   Software.
+
+By using EmberRTOS, you agree to all terms above.
+
+
+
+GO NUTZ AND USE AND HAVE FUN :D
+
+
