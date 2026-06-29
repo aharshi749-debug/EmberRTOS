@@ -2,6 +2,8 @@
 
 A monolithic micro‑OS for the ESP32‑S3.  
 Binary‑only release.
+Made by a random Bored 12 year old lol
+ANYWAYS , HERE  ARE THE COMMANDS :D
 
 ## Commands
 MKDIR  
